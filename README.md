@@ -2,7 +2,7 @@
 
 A React project focusing on components, props, and JSX for dynamic UI.
 
-### 🌐 Visit the website: [Fast Food Live Demo](https://fast-food-tau-ruby.vercel.app/)
+### 🌐 Visit the website: [Fast Food Live Demo](https://fast-food-mz.vercel.app/)
 
 ## 📸 Preview
 
